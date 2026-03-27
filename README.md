@@ -32,7 +32,7 @@ Enterprise-grade **Cyber Threat Intelligence Platform** for SOC teams, blue team
 
 ### Prerequisites
 
-- Python 3.11+
+- Python 3.12
 - Node.js 18+
 
 ---
